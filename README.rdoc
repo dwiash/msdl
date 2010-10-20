@@ -1,0 +1,19 @@
+= msdl
+
+Download manga from mangastream.com
+
+== Requirement
+
+* Ruby (http://ruby-lang.org)
+* Rubygems (http://rubygems.org/)
+* Nokogiri (http://nokogiri.org/)
+* Wget (http://www.gnu.org/software/wget/)
+
+== Usage
+
+  ./msdl [manga URL]
+
+example:
+
+  ./msdl http://mangastream.com/read/one_piece/55133868/1
+
