@@ -1,6 +1,6 @@
 = msdl
 
-Download manga from mangastream.com
+Download manga from mangastream
 
 == Requirement
 
@@ -11,9 +11,9 @@ Download manga from mangastream.com
 
 == Usage
 
-  ./msdl [manga URL]
+    ./msdl.rb [manga URL]
 
 example:
 
-  ./msdl http://mangastream.com/read/one_piece/55133868/1
+    ./msdl.rb http://mangastream.com/read/one_piece/55133868/1
 
