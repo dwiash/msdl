@@ -31,4 +31,4 @@ end
 print `tar -cf #{dir}.tar #{dir}/`
 print `bzip2 -z #{dir}.tar`
 print `rm -rf #{dir}`
-puts "Done, Saved to \"#{dir}\" "
+puts "Done, Saved to \"#{dir}.tar.bz2\" "
