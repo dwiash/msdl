@@ -1,6 +1,6 @@
 = msdl
 
-Download manga from mangastream **CURRENTLY BROKEN**
+Download manga from mangastream - *CURRENTLY* *BROKEN*
 
 == Requirement
 
